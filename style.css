@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.Question{
+    background-color: lightgreen;
+    text-align: center;
+}
+
+.box h1:hover{
+    color: red;
+    font-style: italic;
+}
+.box h2:hover {
+    color: green;
+    font-style: inherit
+}
+.box h3:hover {
+    color:yellow;
+    font-style: normal;
+}
+.box h4:hover {
+    color:blue;
+    font-style: initial;
+}
+.box h5:hover {
+    color:burlywood;
+    font-style: serif;
+}
+.box h6:hover {
+    color: brown;
+    font-style: monospace;
+}
+ .box p:hover {
+    color: white;
+    background-color: black;
+font-style: italic;
+font-size: 20px;
+ }
+
+
+
+.box1 button{
+    padding: 20px;
+   
+    background-color: orange;
+    color: brown;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+.box1 button:hover{
+    padding: 20px;
+   
+    background-color: rgb(0, 255, 132);
+    color: rgb(99, 42, 165);
+    border-radius: 30px;
+    font-size: 20px;
+}
